@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: 'Thanks Mr.Holman and Tom Preston-Werner'
 permalink: /2011/12/11/thx-holman-and-tom-preston/
@@ -6,10 +6,10 @@ permalink: /2011/12/11/thx-holman-and-tom-preston/
 ---
 ###Start
 
-Õâ¸öBlog´î½¨ÔÚGithubÉÏ,Èí¼şÊÇTom Preston-WernerµÄJekyll.Ê¹ÓÃµÄÄ£°åÊÇ[Mr. Holman](http://zachholman.com/about)µÄ,·Ç³£¸ĞĞ»ËûÃÇ. : )
+è¿™ä¸ªBlogæ­å»ºåœ¨Githubä¸Š,è½¯ä»¶æ˜¯Tom Preston-Wernerçš„Jekyll.ä½¿ç”¨çš„æ¨¡æ¿æ˜¯[Mr. Holman](http://zachholman.com/about)çš„,éå¸¸æ„Ÿè°¢ä»–ä»¬. : )
 
 ###Journals
 
 2011/12/11
 
- ForkÁËMr.HolmanµÄRepo.ÒòÎªÖ»ÓĞÖÜÄ©²ÅÓĞ×ã¹»µÄÊ±¼äÉÏÍø,ËùÒÔÄ£°å»¹Ã»ÓĞĞŞ¸ÄÍê³É¾Í°ó¶¨ÁËÓòÃûorz.
+ Forkäº†Mr.Holmançš„Repo.å› ä¸ºåªæœ‰å‘¨æœ«æ‰æœ‰è¶³å¤Ÿçš„æ—¶é—´ä¸Šç½‘,æ‰€ä»¥æ¨¡æ¿è¿˜æ²¡æœ‰ä¿®æ”¹å®Œæˆå°±ç»‘å®šäº†åŸŸåorz.

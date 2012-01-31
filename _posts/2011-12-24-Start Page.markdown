@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: 'Start Page'
 permalink: /2011/12/24/Start-page/
@@ -7,6 +7,6 @@ permalink: /2011/12/24/Start-page/
 
 [http://start.heylink.info](http://start.heylink.info)
 
-±¾À´ÊÇ´òËã×öÒ»¸öChromeÍØÕ¹µÄ,ºóÀ´¾õµÃ»á¸²¸ÇµôĞÂ±êÇ©Ò³µÄChromeÓ¦ÓÃ³ÌĞò.ÓÚÊÇÖØĞÂ×¢²áÁËÒ»¸ögithubÕËºÅÍĞ¹ÜÔÚÉÏÃæ.
+æœ¬æ¥æ˜¯æ‰“ç®—åšä¸€ä¸ªChromeæ‹“å±•çš„,åæ¥è§‰å¾—ä¼šè¦†ç›–æ‰æ–°æ ‡ç­¾é¡µçš„Chromeåº”ç”¨ç¨‹åº.äºæ˜¯é‡æ–°æ³¨å†Œäº†ä¸€ä¸ªgithubè´¦å·æ‰˜ç®¡åœ¨ä¸Šé¢.
 
-Õâ¸öÒ³Ãæ»á³ÖĞø¸üĞÂ.XD<img src="http://i.imgur.com/wFRsz.jpg">
+è¿™ä¸ªé¡µé¢ä¼šæŒç»­æ›´æ–°.XD<img src="http://i.imgur.com/wFRsz.jpg">

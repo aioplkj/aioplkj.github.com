@@ -1,7 +1,0 @@
----
-layout: post
-title: 'mac os x中文测试'
-permalink: /2012/01/31/mac-os-x-test/
-
----
-####中文测试
