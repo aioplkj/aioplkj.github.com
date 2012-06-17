@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '《我的天啦她是个异次元姐姐后略...》'
+title: '我的天啦她是个异次元姐姐后略...'
 permalink: /2012/5/15/Long-title/
 
 ---
