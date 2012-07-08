@@ -180,7 +180,8 @@ h3{
   margin-bottom: 1.2em;
   line-height: 1.7em;
 }
-/*#post img{
+/*
+#post img{
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -307,6 +308,7 @@ h3{
 .talk .byline strong{
   color: #000;
 }
+
 .talk span{
   color: #333;
   font-size: 14px;
