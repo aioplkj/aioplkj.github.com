@@ -1,24 +1,9 @@
 require 'rubygems'
 require 'rake'
-require 'fileutils'
 
-desc "Draft a new post"
-task :new do
-  puts "What should we call this post for now?"
-  name = STDIN.gets.chomp
-  FileUtils.touch("drafts/#{name}.md")
-
-  open("drafts/#{name}.md", 'a') do |f|
-    f.puts "---"
-    f.puts "layout: post"
-    f.puts "title: \"DRAFT: #{name}\""
-    f.puts "---"
-  end
+desc "Compile CoffeeScript, SCSS, and all of the above."
+task :compile do
+  sh "coffee -o js/compiled -c js/coffeescript/*.coffee"
+  sh "sass css/scss/base.scss css/compiled/base.css --scss"
+  sh "sass css/scss/iphone.scss css/compiled/iphone.css --scss"
 end
-
-desc "Startup Jekyll"
-task :start do
-  sh "jekyll --server"
-end
-
-task :default => :start
