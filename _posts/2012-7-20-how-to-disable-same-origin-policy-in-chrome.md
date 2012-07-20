@@ -19,9 +19,9 @@ permalink: /2012/7/20/how-to-disable-same-origin-policy-in-chrome/
 
 为了快捷方便,我在桌面上创建了一个增加了标记组件的快捷方式.你的快捷方式看起来应该像这样:
 
-	C:\Users\YOUR_USER\AppData\Local\Google\Chrome\Application\chrome.exe --allow-file-access-from-files --disable-web-security
+<pre><code>C:\Users\YOUR_USER\AppData\Local\Google\Chrome\Application\chrome.exe --allow-file-access-from-files --disable-web-security</pre></code>
 	
-###标记
+####标记
 
 你会注意到这两个标记加入了快捷方式的路径里.
 
