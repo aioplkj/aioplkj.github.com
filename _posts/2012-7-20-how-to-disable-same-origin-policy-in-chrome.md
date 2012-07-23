@@ -32,6 +32,6 @@ permalink: /2012/7/20/how-to-disable-same-origin-policy-in-chrome/
 
 这些标记都将允许开发人员测试跨域ajax请求的本地文件.
 
-PS:我称这个拓展为"无担保的Chrome",所以我不会冒险总是运行带有这些标记的Chrome.
+PS:我称这个为"无担保的Chrome",所以我不会冒险总是运行带有这些标记的Chrome.
 
 译者注:Linux或者Mac用户添加启动参数方法见["如何给mac os x下的应用程序加上启动参数"](http://www.xuanyu.net/2011/11/%E5%A6%82%E4%BD%95%E7%BB%99mac-os-x%E4%B8%8B%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%8A%A0%E4%B8%8A%E5%90%AF%E5%8A%A8%E5%8F%82%E6%95%B0.html)
