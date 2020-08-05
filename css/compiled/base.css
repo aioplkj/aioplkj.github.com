@@ -35,6 +35,14 @@ a {
       color: #666; }
       .sidebar .name #zach:hover {
         color: black; }
+  .sidebar .name #fourme {
+      padding-left: 0px;
+      font-size: 15px;
+      letter-spacing: 5px;
+      color: #666;
+      }
+      .sidebar .name #fourme:hover {
+        color: black; }
     .sidebar .name #holman {
       font-size: 17px;
       font-weight: bold;
